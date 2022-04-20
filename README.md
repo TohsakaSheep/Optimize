@@ -1,2 +1,2 @@
 # Optimize
-# An optimizing network for PointNet++ recent to handle for compition
+# An optimizing network for PointNet++ recent to be presented for the project
